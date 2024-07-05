@@ -18,16 +18,6 @@
 | `/api/v1/cars/:id` | PUT    | Mengedit data mobil berdasarkan ID  |
 | `/api/v1/cars/:id` | DELETE | Menghapus data mobil berdasarkan ID |
 
-- ### Sizes
-
-| Endpoint            | Method | Description                          |
-| ------------------- | ------ | ------------------------------------ |
-| `/api/v1/sizes`     | GET    | Mengambil semua data ukuran          |
-| `/api/v1/sizes/:id` | GET    | Mengambil data ukuran berdasarkan ID |
-| `/api/v1/sizes`     | POST   | Menyimpan data ukuran baru           |
-| `/api/v1/sizes/:id` | PUT    | Mengedit data ukuran berdasarkan ID  |
-| `/api/v1/sizes/:id` | DELETE | Menghapus data ukuran berdasarkan ID |
-
 - ### Users
 
 | Endpoint            | Method | Description                            |
